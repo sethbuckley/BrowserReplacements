@@ -1,0 +1,56 @@
+{
+  "version": "2.1",
+  "groups": [
+    {
+      "name": "GOP",
+      "urls": [],
+      "substitutions": [
+        {
+          "input": "GOP",
+          "inputType": "text",
+          "output": "Traitors",
+          "caseSensitive": false
+        },
+        {
+          "input": "Republicans",
+          "inputType": "text",
+          "output": "Traitors",
+          "caseSensitive": false
+        },
+        {
+          "input": "Conservative",
+          "inputType": "text",
+          "output": "Traitor",
+          "caseSensitive": false
+        },
+        {
+          "input": "Conservatives",
+          "inputType": "text",
+          "output": "Traitors",
+          "caseSensitive": false
+        },
+        {
+          "input": "Trump",
+          "inputType": "text",
+          "output": "Drumpf",
+          "caseSensitive": true
+        },
+        {
+          "input": "Grand Old Party",
+          "inputType": "text",
+          "output": "TOP",
+          "caseSensitive": false
+        },
+        {
+          "input": "Republican",
+          "inputType": "text",
+          "output": "Traitor",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    }
+  ]
+}
